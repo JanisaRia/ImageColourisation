@@ -34,8 +34,4 @@ This project implements an **image colorization model** that converts grayscale 
 
 ---
 
-## **Installation**
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/your-username/image-colorization.git
-cd image-colorization
+
