@@ -43,7 +43,7 @@ class ColorizationDataset(Dataset):
 
 
 # Set dataset path (UPDATE THIS with your actual dataset path)
-dataset_path = r"C:\Users\janis\learning\machine learning\image colorisatiion\dataset"
+dataset_path = r""
 
 
 # Create dataset instance
